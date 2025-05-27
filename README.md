@@ -10,4 +10,4 @@ A collection of Bash scripts for detecting, analyzing, and responding to securit
 - Extract IOCs from logs for further analysis
 
 ## Author
-Kyle Cucciardi – IT Specialist transitioning to Icident/DevOps Engineer
+Kyle Cucciardi – IT Specialist transitioning to Incident/DevOps Engineer
